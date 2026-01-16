@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>DNSSettings</key>
+      <dict>
+        <key>DNSProtocol</key>
+        <string>HTTPS</string>
+        <key>ServerURL</key>
+        <string>https://dns.google/dns-query</string>
+      </dict>
+
+      <key>PayloadDescription</key>
+      <string>PBQT DNS Pro - Secure & Fast</string>
+
+      <key>PayloadDisplayName</key>
+      <string>PBQT DNS Pro</string>
+
+      <key>PayloadIdentifier</key>
+      <string>pbqt.dns.pro</string>
+
+      <key>PayloadType</key>
+      <string>com.apple.dnsSettings.managed</string>
+
+      <key>PayloadUUID</key>
+      <string>8F1A7B8E-1234-4567-ABCD-998877665544</string>
+
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+
+  <key>PayloadDisplayName</key>
+  <string>PBQT DNS Pro</string>
+
+  <key>PayloadIdentifier</key>
+  <string>pbqt.profile.dns</string>
+
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+
+  <key>PayloadType</key>
+  <string>Configuration</string>
+
+  <key>PayloadUUID</key>
+  <string>1A2B3C4D-AAAA-BBBB-CCCC-123456789000</string>
+
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
